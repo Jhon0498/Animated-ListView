@@ -11,7 +11,8 @@ Este é um exemplo simples de uma aplicação Flutter utilizando `AnimatedList` 
 
 ## 📸 Demonstração
 
-<sub>*Adicione aqui um GIF ou print da tela do app*</sub>
+![ListView](https://github.com/user-attachments/assets/28279e3d-eb64-4779-b294-a50679b6129a)
+
 
 ## 🚀 Como executar
 
